@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Byte-compiled / optimized / DLL files
+*.pyd
+*.pyo
+*.so
+
+# Environment / OS files
+.DS_Store
+.env
+.venv/
+.idea/
+.vscode/

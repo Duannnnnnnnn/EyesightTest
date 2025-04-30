@@ -1,0 +1,16 @@
+stage,logMAR,decimal,gap_px,filename
+0,1.0,0.1,52.93,scaled_signs/stage_0.png
+1,0.9,0.13,42.04,scaled_signs/stage_1.png
+2,0.8,0.16,33.39,scaled_signs/stage_2.png
+3,0.7,0.2,26.53,scaled_signs/stage_3.png
+4,0.6,0.25,21.07,scaled_signs/stage_4.png
+5,0.5,0.32,16.74,scaled_signs/stage_5.png
+6,0.4,0.4,13.29,scaled_signs/stage_6.png
+7,0.3,0.5,10.56,scaled_signs/stage_7.png
+8,0.2,0.63,8.39,scaled_signs/stage_8.png
+9,0.1,0.79,6.66,scaled_signs/stage_9.png
+10,0.0,1.0,5.29,scaled_signs/stage_10.png
+11,-0.1,1.26,4.2,scaled_signs/stage_11.png
+12,-0.2,1.58,3.34,scaled_signs/stage_12.png
+13,-0.3,2.0,2.65,scaled_signs/stage_13.png
+14,-0.4,2.51,2.11,scaled_signs/stage_14.png
