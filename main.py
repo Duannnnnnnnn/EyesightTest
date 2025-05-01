@@ -3,7 +3,6 @@ from core.session import Session
 from core.input_cv2key import CV2KeyInput
 from ui.screen import Screen
 import mi2s_asr as asr
-
 if __name__ == '__main__':
     print("[系統] 視力測試開始")
 

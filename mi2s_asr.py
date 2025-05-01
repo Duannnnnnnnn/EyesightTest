@@ -6,6 +6,7 @@ import pyaudio
 import wave
 import sys
 import cv2
+from aiy.voice.audio import play_wav
 
 
 class Recorder:
@@ -57,6 +58,7 @@ class Recorder:
         self.recording = True
         record_thread = threading.Thread(target=self.start_recording)
         record_thread.start()
+        play_wav("start.wav")
         # while self.recording:
         cv2.waitKey(3000)  # 處理一次 GUI 事件、並回傳 keycode
         #     if key == ord('s'):    # 使用者在 OpenCV 視窗按下 s
